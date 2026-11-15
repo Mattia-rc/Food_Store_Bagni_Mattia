@@ -3,7 +3,7 @@
 Trabajo Práctico Integrador de Programación 4 · UTN  
 Alumno: Bagni Mattia
 
-- Repositorio público: `PENDIENTE_URL_GITHUB`
+- Repositorio público: `https://github.com/Mattia-rc/Food_Store_Bagni_Mattia`
 - Video de demostración: `PENDIENTE_URL_VIDEO`
 
 Food Store permite consultar el menú, armar un carrito y pedir comida a domicilio mediante pago en efectivo o por transferencia. El administrador gestiona el catálogo, el stock, los pedidos y los usuarios.
